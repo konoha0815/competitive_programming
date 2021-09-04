@@ -1,3 +1,5 @@
+ST = input()
+
 N = int(input())
 
 S = [0] * N
