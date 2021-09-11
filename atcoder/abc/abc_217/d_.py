@@ -4,8 +4,8 @@ for i in range(Q):
     C, X = map(int, input().split())
     Query_list.append([C, X])
 
+# wood = list(range(1, L + 1)
 wood = []
-
 for k in range(L + 1):
     wood.append(k)
  
